@@ -4,5 +4,7 @@
     "plaintext": false,
     "markdown": false,
     "csharp": false
-  }
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python-envs.defaultPackageManager": "ms-python.python:pip"
 }
