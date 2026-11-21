@@ -1,0 +1,24 @@
+25
+SimpleGoal
+say hi
+do it
+5
+True
+EternalGoal
+eat
+food
+5
+ChecklistGoal
+hi
+dfsdf
+5
+500
+6
+1
+ChecklistGoal
+fdgfdg
+fdgfdg
+5
+5
+5
+1
